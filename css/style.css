@@ -579,7 +579,7 @@ h2{
     height: 100%;
 }
 .team{
-    background: url(/images/laptop-4k.jpeg) no-repeat;
+    background: url(../images/laptop-4k.jpeg) no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -608,7 +608,7 @@ h2{
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background: url(/images/man.jpeg) no-repeat;
+    background: url(../images/man.jpeg) no-repeat;
     background-size: 100% 100%;
     float: left;
     margin-right: 30px;
